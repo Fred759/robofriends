@@ -1,15 +1,15 @@
 export const robots = [
     {
       id: 1,
-      name: 'Leanne Graham',
-      username: 'Bret',
-      email: 'Sincere@april.biz'
+      name: 'Eddie HM',
+      username: 'Epic Eddie',
+      email: 'Eddieisepic@gmail.com'
     },
     {
       id: 2,
-      name: 'Ervin Howell',
-      username: 'Antonette',
-      email: 'Shanna@melissa.tv'
+      name: 'Bardia A',
+      username: 'Cool Bardia',
+      email: 'Bardiaiscool@gmail.com'
     },
     {
       id: 3,
